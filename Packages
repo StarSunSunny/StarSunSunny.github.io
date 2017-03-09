@@ -1,0 +1,13 @@
+Package: com.fancyforce.happywheels
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: Sunny <email@gmail.com>
+Filename: /HappyWheelsCheats.deb
+Size: 5762
+MD5sum: d6d7d4d0e51f8e14171a4761f06317b1
+SHA1: 00ccdc263f0b2670af1b00711d2df474e01e929a
+SHA256: d61768e22d01d46c197caaa6bed9190341dfc0d5c860bc2624d730345b2c1cfa
+Section: Tweaks
+Description: Cheats for Happy Wheels
+Author: Sunny <email@gmail.com>
+Name: HappyWheelsCheats
